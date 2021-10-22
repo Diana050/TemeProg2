@@ -1,0 +1,4 @@
+﻿  Pb6.cpp
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\tema1_pb6\Pb6.cpp(28,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\tema1_pb6\Pb6.cpp(17,7): warning C4101: 'tranzit': unreferenced local variable
+  tema1_pb6.vcxproj -> C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\x64\Debug\tema1_pb6.exe

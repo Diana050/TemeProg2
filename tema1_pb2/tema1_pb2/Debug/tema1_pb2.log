@@ -1,0 +1,3 @@
+﻿  tema1_pb2.cpp
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb2\tema1_pb2\tema1_pb2.cpp(17,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  tema1_pb2.vcxproj -> C:\Users\dyabu\Documents\prog2\teme\tema1_pb2\Debug\tema1_pb2.exe

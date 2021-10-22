@@ -1,0 +1,4 @@
+﻿  Pb5.cpp
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb5\tema1_pb5\Pb5.cpp(13,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb5\tema1_pb5\Pb5.cpp(36,16): warning C4101: 'j': unreferenced local variable
+  tema1_pb5.vcxproj -> C:\Users\dyabu\Documents\prog2\teme\tema1_pb5\x64\Debug\tema1_pb5.exe

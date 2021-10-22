@@ -1,0 +1,5 @@
+﻿  Pb6.cpp
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\tema1_pb6\Pb6.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\tema1_pb6\Pb6.cpp(25,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\tema1_pb6\Pb6.cpp(19,7): warning C4101: 'tranzit': unreferenced local variable
+  tema1_pb6.vcxproj -> C:\Users\dyabu\Documents\prog2\teme\tema1_pb6\Debug\tema1_pb6.exe
