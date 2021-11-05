@@ -1,0 +1,10 @@
+^C:\USERS\DYABU\DOCUMENTS\PROG2\TEME\TEMA LABORATOR4\PB7\LIBRARIIC++\CMAKEFILES\E6354B6AF12F1CBF1BF7844A6D071BBB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/dyabu/Documents/prog2/teme/tema laborator4/pb7" "-BC:/Users/dyabu/Documents/prog2/teme/tema laborator4/pb7/LibrariiC++" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/dyabu/Documents/prog2/teme/tema laborator4/pb7/LibrariiC++/name.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

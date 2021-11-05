@@ -1,0 +1,10 @@
+^C:\USERS\DYABU\DOCUMENTS\PROG2\TEME\TEMA LABORATOR4\PB7.2\LIBRARIIC++\CMAKEFILES\C435CD8AFF850F2EB21F82D536A90877\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

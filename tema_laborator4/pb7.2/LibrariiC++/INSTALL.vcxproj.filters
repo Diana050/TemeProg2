@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dyabu\Documents\prog2\teme\tema laborator4\pb7.2\LibrariiC++\CMakeFiles\c435cd8aff850f2eb21f82d536a90877\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D413BB96-D461-30E2-848B-8B36D24A966B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
